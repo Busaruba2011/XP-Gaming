@@ -1,2 +1,2 @@
-# XP Gaming
+# GamesXP
  Windows XP games for later versions of Windows!
